@@ -1,2 +1,2 @@
 # Bounce-ball-Game
-used canvap api
+used canvas api
